@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 
 
-# 🎨 Aliyu
+#  I am Aliyu Muhammad Jazuli 
 
-## 👋 UI/UX Designer
+##  UI/UX Designer
 
 Member of BUK Alpha Coders | Smart Finance App Team
 
