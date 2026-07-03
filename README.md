@@ -33,7 +33,7 @@ Software Engineering student at Bayero University Kano.
 - Hackathon UI/UX Project (Team Contribution)
 
 ## 🎯 Goals
-- Become a professional Android Developer
+- Become a professional Developer
 - Build real-world production apps
 - Grow into Software Engineer / UX Engineer
 
